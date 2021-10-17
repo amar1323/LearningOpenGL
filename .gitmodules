@@ -1,0 +1,9 @@
+[submodule "vendor"]
+	path = vendor
+	url = https://github.com/ocornut/imgui.git
+[submodule "Application/vendor/STB"]
+	path = Application/vendor/STB
+	url = https://github.com/nothings/stb.git
+[submodule "Application/vendor/GLM"]
+	path = Application/vendor/GLM
+	url = https://github.com/g-truc/glm.git
